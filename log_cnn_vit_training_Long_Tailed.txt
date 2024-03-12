@@ -1,0 +1,431 @@
+Files already downloaded and verified
+Files already downloaded and verified
+num_samples_per_class_lt is %s [5000 4500 4000 3500 3000 2500 1999 1499  999  500]
+
+Training and evaluating with Swin-Transformer-Tiny on cifar10:
+Epoch 1, Accuracy on Test Set: 95.25%
+Epoch 2, Accuracy on Test Set: 95.87%
+Epoch 3, Accuracy on Test Set: 96.30%
+Epoch 4, Accuracy on Test Set: 96.56%
+Epoch 5, Accuracy on Test Set: 96.65%
+Epoch 6, Accuracy on Test Set: 96.62%
+Epoch 7, Accuracy on Test Set: 96.77%
+Epoch 8, Accuracy on Test Set: 96.63%
+Epoch 9, Accuracy on Test Set: 96.52%
+Epoch 10, Accuracy on Test Set: 96.77%
+Epoch 11, Accuracy on Test Set: 96.69%
+Epoch 12, Accuracy on Test Set: 96.88%
+Epoch 13, Accuracy on Test Set: 97.13%
+Epoch 14, Accuracy on Test Set: 96.96%
+Epoch 15, Accuracy on Test Set: 96.92%
+Epoch 16, Accuracy on Test Set: 96.89%
+Epoch 17, Accuracy on Test Set: 97.15%
+Epoch 18, Accuracy on Test Set: 97.07%
+Epoch 19, Accuracy on Test Set: 97.18%
+Epoch 20, Accuracy on Test Set: 97.20%
+Finished Training
+Final Accuracy on the Test Set: 97.20%
+Accuracy of airplane : 97 %
+Accuracy of automobile : 98 %
+Accuracy of  bird : 97 %
+Accuracy of   cat : 93 %
+Accuracy of  deer : 97 %
+Accuracy of   dog : 94 %
+Accuracy of  frog : 99 %
+Accuracy of horse : 97 %
+Accuracy of  ship : 98 %
+Accuracy of truck : 96 %
+Loaded model from Swin-Transformer-Tiny with accuracy 97.2 at epoch 20
+
+Training and evaluating with CNN (resnet18) on cifar10:
+Epoch 1, Accuracy on Test Set: 92.28%
+Epoch 2, Accuracy on Test Set: 93.09%
+Epoch 3, Accuracy on Test Set: 93.94%
+Epoch 4, Accuracy on Test Set: 94.18%
+Epoch 5, Accuracy on Test Set: 94.27%
+Epoch 6, Accuracy on Test Set: 94.53%
+Epoch 7, Accuracy on Test Set: 94.48%
+Epoch 8, Accuracy on Test Set: 94.67%
+Epoch 9, Accuracy on Test Set: 94.36%
+Epoch 10, Accuracy on Test Set: 94.47%
+Epoch 11, Accuracy on Test Set: 94.36%
+Epoch 12, Accuracy on Test Set: 94.51%
+Epoch 13, Accuracy on Test Set: 94.62%
+Epoch 14, Accuracy on Test Set: 94.64%
+Epoch 15, Accuracy on Test Set: 94.50%
+Epoch 16, Accuracy on Test Set: 94.65%
+Epoch 17, Accuracy on Test Set: 95.06%
+Epoch 18, Accuracy on Test Set: 94.79%
+Epoch 19, Accuracy on Test Set: 94.80%
+Epoch 20, Accuracy on Test Set: 94.76%
+Finished Training
+Final Accuracy on the Test Set: 94.76%
+Accuracy of airplane : 96 %
+Accuracy of automobile : 96 %
+Accuracy of  bird : 93 %
+Accuracy of   cat : 89 %
+Accuracy of  deer : 95 %
+Accuracy of   dog : 90 %
+Accuracy of  frog : 97 %
+Accuracy of horse : 96 %
+Accuracy of  ship : 96 %
+Accuracy of truck : 95 %
+Loaded model from ResNet18 with accuracy 95.06 at epoch 17
+
+Training and evaluating with CNN (resnet50) on cifar10:
+Epoch 1, Accuracy on Test Set: 94.22%
+Epoch 2, Accuracy on Test Set: 95.07%
+Epoch 3, Accuracy on Test Set: 95.09%
+Epoch 4, Accuracy on Test Set: 95.88%
+Epoch 5, Accuracy on Test Set: 95.80%
+Epoch 6, Accuracy on Test Set: 95.86%
+Epoch 7, Accuracy on Test Set: 95.57%
+Epoch 8, Accuracy on Test Set: 95.85%
+Epoch 9, Accuracy on Test Set: 95.84%
+Epoch 10, Accuracy on Test Set: 95.76%
+Epoch 11, Accuracy on Test Set: 96.07%
+Epoch 12, Accuracy on Test Set: 96.06%
+Epoch 13, Accuracy on Test Set: 96.12%
+Epoch 14, Accuracy on Test Set: 96.00%
+Epoch 15, Accuracy on Test Set: 96.31%
+Epoch 16, Accuracy on Test Set: 96.40%
+Epoch 17, Accuracy on Test Set: 96.12%
+Epoch 18, Accuracy on Test Set: 96.34%
+Epoch 19, Accuracy on Test Set: 96.15%
+Epoch 20, Accuracy on Test Set: 96.26%
+Finished Training
+Final Accuracy on the Test Set: 96.26%
+Accuracy of airplane : 98 %
+Accuracy of automobile : 97 %
+Accuracy of  bird : 95 %
+Accuracy of   cat : 92 %
+Accuracy of  deer : 95 %
+Accuracy of   dog : 93 %
+Accuracy of  frog : 98 %
+Accuracy of horse : 97 %
+Accuracy of  ship : 97 %
+Accuracy of truck : 96 %
+Loaded model from ResNet50 with accuracy 96.4 at epoch 16
+
+Training and evaluating with 3-layer MLP on cifar10:
+Epoch 1, Accuracy on Test Set: 40.05%
+Epoch 2, Accuracy on Test Set: 43.38%
+Epoch 3, Accuracy on Test Set: 41.10%
+Epoch 4, Accuracy on Test Set: 38.95%
+Epoch 5, Accuracy on Test Set: 41.88%
+Epoch 6, Accuracy on Test Set: 40.61%
+Epoch 7, Accuracy on Test Set: 45.18%
+Epoch 8, Accuracy on Test Set: 43.62%
+Epoch 9, Accuracy on Test Set: 41.90%
+Epoch 10, Accuracy on Test Set: 39.07%
+Epoch 11, Accuracy on Test Set: 40.00%
+Epoch 12, Accuracy on Test Set: 43.24%
+Epoch 13, Accuracy on Test Set: 43.44%
+Epoch 14, Accuracy on Test Set: 43.61%
+Epoch 15, Accuracy on Test Set: 41.55%
+Epoch 16, Accuracy on Test Set: 42.97%
+Epoch 17, Accuracy on Test Set: 42.15%
+Epoch 18, Accuracy on Test Set: 40.19%
+Epoch 19, Accuracy on Test Set: 41.96%
+Epoch 20, Accuracy on Test Set: 41.39%
+Finished Training
+Final Accuracy on the Test Set: 41.39%
+Accuracy of airplane : 54 %
+Accuracy of automobile : 42 %
+Accuracy of  bird : 17 %
+Accuracy of   cat : 66 %
+Accuracy of  deer : 20 %
+Accuracy of   dog : 14 %
+Accuracy of  frog : 45 %
+Accuracy of horse : 41 %
+Accuracy of  ship : 52 %
+Accuracy of truck : 57 %
+Loaded model from MLP3Layer with accuracy 45.18 at epoch 7
+
+Training and evaluating with Swin-Transformer-Tiny on Long-Tailed cifar10:
+Epoch 1, Accuracy on Test Set: 87.40%
+Epoch 2, Accuracy on Test Set: 90.00%
+Epoch 3, Accuracy on Test Set: 92.10%
+Epoch 4, Accuracy on Test Set: 91.26%
+Epoch 5, Accuracy on Test Set: 92.86%
+Epoch 6, Accuracy on Test Set: 93.39%
+Epoch 7, Accuracy on Test Set: 93.26%
+Epoch 8, Accuracy on Test Set: 93.34%
+Epoch 9, Accuracy on Test Set: 93.11%
+Epoch 10, Accuracy on Test Set: 93.07%
+Epoch 11, Accuracy on Test Set: 93.37%
+Epoch 12, Accuracy on Test Set: 92.59%
+Epoch 13, Accuracy on Test Set: 92.88%
+Epoch 14, Accuracy on Test Set: 92.81%
+Epoch 15, Accuracy on Test Set: 92.00%
+Epoch 16, Accuracy on Test Set: 92.80%
+Epoch 17, Accuracy on Test Set: 92.81%
+Epoch 18, Accuracy on Test Set: 92.96%
+Epoch 19, Accuracy on Test Set: 92.50%
+Epoch 20, Accuracy on Test Set: 93.30%
+Finished Training
+Final Accuracy on the Test Set: 93.30%
+Accuracy of airplane : 99 %
+Accuracy of automobile : 99 %
+Accuracy of  bird : 96 %
+Accuracy of   cat : 92 %
+Accuracy of  deer : 97 %
+Accuracy of   dog : 91 %
+Accuracy of  frog : 97 %
+Accuracy of horse : 92 %
+Accuracy of  ship : 88 %
+Accuracy of truck : 78 %
+Loaded model from Swin-Transformer-Tiny with accuracy 93.39 at epoch 6
+
+Training and evaluating with CNN (resnet18) on Long-Tailed cifar10:
+Epoch 1, Accuracy on Test Set: 84.69%
+Epoch 2, Accuracy on Test Set: 87.77%
+Epoch 3, Accuracy on Test Set: 88.16%
+Epoch 4, Accuracy on Test Set: 89.12%
+Epoch 5, Accuracy on Test Set: 89.49%
+Epoch 6, Accuracy on Test Set: 89.68%
+Epoch 7, Accuracy on Test Set: 89.23%
+Epoch 8, Accuracy on Test Set: 89.47%
+Epoch 9, Accuracy on Test Set: 88.91%
+Epoch 10, Accuracy on Test Set: 89.54%
+Epoch 11, Accuracy on Test Set: 89.49%
+Epoch 12, Accuracy on Test Set: 89.58%
+Epoch 13, Accuracy on Test Set: 89.84%
+Epoch 14, Accuracy on Test Set: 89.48%
+Epoch 15, Accuracy on Test Set: 89.18%
+Epoch 16, Accuracy on Test Set: 89.35%
+Epoch 17, Accuracy on Test Set: 89.39%
+Epoch 18, Accuracy on Test Set: 89.50%
+Epoch 19, Accuracy on Test Set: 89.51%
+Epoch 20, Accuracy on Test Set: 89.85%
+Finished Training
+Final Accuracy on the Test Set: 89.85%
+Accuracy of airplane : 98 %
+Accuracy of automobile : 99 %
+Accuracy of  bird : 93 %
+Accuracy of   cat : 88 %
+Accuracy of  deer : 95 %
+Accuracy of   dog : 84 %
+Accuracy of  frog : 94 %
+Accuracy of horse : 87 %
+Accuracy of  ship : 82 %
+Accuracy of truck : 73 %
+Loaded model from ResNet18 with accuracy 89.85 at epoch 20
+
+Training and evaluating with CNN (resnet50) on Long-Tailed cifar10:
+Epoch 1, Accuracy on Test Set: 87.65%
+Epoch 2, Accuracy on Test Set: 89.58%
+Epoch 3, Accuracy on Test Set: 89.69%
+Epoch 4, Accuracy on Test Set: 90.73%
+Epoch 5, Accuracy on Test Set: 90.57%
+Epoch 6, Accuracy on Test Set: 91.65%
+Epoch 7, Accuracy on Test Set: 90.84%
+Epoch 8, Accuracy on Test Set: 91.51%
+Epoch 9, Accuracy on Test Set: 91.85%
+Epoch 10, Accuracy on Test Set: 91.27%
+Epoch 11, Accuracy on Test Set: 92.15%
+Epoch 12, Accuracy on Test Set: 91.58%
+Epoch 13, Accuracy on Test Set: 91.85%
+Epoch 14, Accuracy on Test Set: 91.42%
+Epoch 15, Accuracy on Test Set: 91.77%
+Epoch 16, Accuracy on Test Set: 92.23%
+Epoch 17, Accuracy on Test Set: 91.35%
+Epoch 18, Accuracy on Test Set: 91.92%
+Epoch 19, Accuracy on Test Set: 92.09%
+Epoch 20, Accuracy on Test Set: 92.05%
+Finished Training
+Final Accuracy on the Test Set: 92.05%
+Accuracy of airplane : 99 %
+Accuracy of automobile : 98 %
+Accuracy of  bird : 95 %
+Accuracy of   cat : 92 %
+Accuracy of  deer : 96 %
+Accuracy of   dog : 89 %
+Accuracy of  frog : 96 %
+Accuracy of horse : 90 %
+Accuracy of  ship : 86 %
+Accuracy of truck : 75 %
+Loaded model from ResNet50 with accuracy 92.23 at epoch 16
+
+Training and evaluating with 3-layer MLP on Long-Tailed cifar10:
+Epoch 1, Accuracy on Test Set: 32.92%
+Epoch 2, Accuracy on Test Set: 34.89%
+Epoch 3, Accuracy on Test Set: 39.24%
+Epoch 4, Accuracy on Test Set: 35.51%
+Epoch 5, Accuracy on Test Set: 37.09%
+Epoch 6, Accuracy on Test Set: 37.90%
+Epoch 7, Accuracy on Test Set: 35.85%
+Epoch 8, Accuracy on Test Set: 33.45%
+Epoch 9, Accuracy on Test Set: 34.99%
+Epoch 10, Accuracy on Test Set: 37.58%
+Epoch 11, Accuracy on Test Set: 38.68%
+Epoch 12, Accuracy on Test Set: 35.44%
+Epoch 13, Accuracy on Test Set: 35.90%
+Epoch 14, Accuracy on Test Set: 37.62%
+Epoch 15, Accuracy on Test Set: 38.18%
+Epoch 16, Accuracy on Test Set: 36.90%
+Epoch 17, Accuracy on Test Set: 37.96%
+Epoch 18, Accuracy on Test Set: 33.39%
+Epoch 19, Accuracy on Test Set: 38.99%
+Epoch 20, Accuracy on Test Set: 38.43%
+Finished Training
+Final Accuracy on the Test Set: 38.43%
+Accuracy of airplane : 72 %
+Accuracy of automobile : 68 %
+Accuracy of  bird : 47 %
+Accuracy of   cat : 40 %
+Accuracy of  deer : 33 %
+Accuracy of   dog :  5 %
+Accuracy of  frog : 33 %
+Accuracy of horse : 41 %
+Accuracy of  ship : 26 %
+Accuracy of truck : 15 %
+Loaded model from MLP3Layer with accuracy 39.24 at epoch 3
+
+Training and evaluating with Swin-Transformer-Tiny with loss of perclass weighted on Long-Tailed cifar10:
+class_weights is %s tensor([0.3413, 0.3792, 0.4266, 0.4876, 0.5689, 0.6826, 0.8537, 1.1385, 1.7083,
+        3.4132], device='cuda:1')
+Epoch 1, Accuracy on Test Set: 92.99%
+Epoch 2, Accuracy on Test Set: 93.68%
+Epoch 3, Accuracy on Test Set: 92.49%
+Epoch 4, Accuracy on Test Set: 93.50%
+Epoch 5, Accuracy on Test Set: 92.94%
+Epoch 6, Accuracy on Test Set: 93.44%
+Epoch 7, Accuracy on Test Set: 94.08%
+Epoch 8, Accuracy on Test Set: 93.68%
+Epoch 9, Accuracy on Test Set: 93.67%
+Epoch 10, Accuracy on Test Set: 93.74%
+Epoch 11, Accuracy on Test Set: 93.96%
+Epoch 12, Accuracy on Test Set: 93.72%
+Epoch 13, Accuracy on Test Set: 93.62%
+Epoch 14, Accuracy on Test Set: 94.04%
+Epoch 15, Accuracy on Test Set: 93.74%
+Epoch 16, Accuracy on Test Set: 93.86%
+Epoch 17, Accuracy on Test Set: 94.18%
+Epoch 18, Accuracy on Test Set: 94.21%
+Epoch 19, Accuracy on Test Set: 94.28%
+Epoch 20, Accuracy on Test Set: 93.93%
+Finished Training
+Final Accuracy on the Test Set: 93.93%
+Accuracy of airplane : 99 %
+Accuracy of automobile : 99 %
+Accuracy of  bird : 97 %
+Accuracy of   cat : 93 %
+Accuracy of  deer : 97 %
+Accuracy of   dog : 91 %
+Accuracy of  frog : 95 %
+Accuracy of horse : 93 %
+Accuracy of  ship : 89 %
+Accuracy of truck : 81 %
+Loaded model from Swin-Transformer-Tiny with accuracy 94.28 at epoch 19
+
+Training and evaluating with CNN (resnet18) with loss of perclass weighted on Long-Tailed cifar10:
+class_weights is %s tensor([0.3413, 0.3792, 0.4266, 0.4876, 0.5689, 0.6826, 0.8537, 1.1385, 1.7083,
+        3.4132], device='cuda:1')
+Epoch 1, Accuracy on Test Set: 88.54%
+Epoch 2, Accuracy on Test Set: 89.74%
+Epoch 3, Accuracy on Test Set: 89.83%
+Epoch 4, Accuracy on Test Set: 90.34%
+Epoch 5, Accuracy on Test Set: 89.67%
+Epoch 6, Accuracy on Test Set: 91.02%
+Epoch 7, Accuracy on Test Set: 90.75%
+Epoch 8, Accuracy on Test Set: 90.69%
+Epoch 9, Accuracy on Test Set: 90.50%
+Epoch 10, Accuracy on Test Set: 90.41%
+Epoch 11, Accuracy on Test Set: 90.38%
+Epoch 12, Accuracy on Test Set: 90.52%
+Epoch 13, Accuracy on Test Set: 90.29%
+Epoch 14, Accuracy on Test Set: 90.33%
+Epoch 15, Accuracy on Test Set: 90.39%
+Epoch 16, Accuracy on Test Set: 90.95%
+Epoch 17, Accuracy on Test Set: 90.61%
+Epoch 18, Accuracy on Test Set: 90.55%
+Epoch 19, Accuracy on Test Set: 90.48%
+Epoch 20, Accuracy on Test Set: 90.28%
+Finished Training
+Final Accuracy on the Test Set: 90.28%
+Accuracy of airplane : 97 %
+Accuracy of automobile : 98 %
+Accuracy of  bird : 93 %
+Accuracy of   cat : 90 %
+Accuracy of  deer : 94 %
+Accuracy of   dog : 83 %
+Accuracy of  frog : 94 %
+Accuracy of horse : 87 %
+Accuracy of  ship : 85 %
+Accuracy of truck : 76 %
+Loaded model from ResNet18 with accuracy 91.02 at epoch 6
+
+Training and evaluating with CNN (resnet50) with loss of perclass weighted on Long-Tailed cifar10:
+class_weights is %s tensor([0.3413, 0.3792, 0.4266, 0.4876, 0.5689, 0.6826, 0.8537, 1.1385, 1.7083,
+        3.4132], device='cuda:1')
+Epoch 1, Accuracy on Test Set: 90.06%
+Epoch 2, Accuracy on Test Set: 92.56%
+Epoch 3, Accuracy on Test Set: 91.71%
+Epoch 4, Accuracy on Test Set: 92.04%
+Epoch 5, Accuracy on Test Set: 92.16%
+Epoch 6, Accuracy on Test Set: 91.93%
+Epoch 7, Accuracy on Test Set: 91.93%
+Epoch 8, Accuracy on Test Set: 92.65%
+Epoch 9, Accuracy on Test Set: 92.18%
+Epoch 10, Accuracy on Test Set: 92.56%
+Epoch 11, Accuracy on Test Set: 91.64%
+Epoch 12, Accuracy on Test Set: 92.12%
+Epoch 13, Accuracy on Test Set: 92.63%
+Epoch 14, Accuracy on Test Set: 92.18%
+Epoch 15, Accuracy on Test Set: 92.55%
+Epoch 16, Accuracy on Test Set: 92.63%
+Epoch 17, Accuracy on Test Set: 92.87%
+Epoch 18, Accuracy on Test Set: 92.81%
+Epoch 19, Accuracy on Test Set: 92.55%
+Epoch 20, Accuracy on Test Set: 92.38%
+Finished Training
+Final Accuracy on the Test Set: 92.38%
+Accuracy of airplane : 99 %
+Accuracy of automobile : 98 %
+Accuracy of  bird : 96 %
+Accuracy of   cat : 92 %
+Accuracy of  deer : 96 %
+Accuracy of   dog : 91 %
+Accuracy of  frog : 93 %
+Accuracy of horse : 93 %
+Accuracy of  ship : 86 %
+Accuracy of truck : 77 %
+Loaded model from ResNet50 with accuracy 92.87 at epoch 17
+
+Training and evaluating with 3-layer MLP with loss of perclass weighted on Long-Tailed cifar10:
+class_weights is %s tensor([0.3413, 0.3792, 0.4266, 0.4876, 0.5689, 0.6826, 0.8537, 1.1385, 1.7083,
+        3.4132], device='cuda:1')
+Epoch 1, Accuracy on Test Set: 35.19%
+Epoch 2, Accuracy on Test Set: 32.19%
+Epoch 3, Accuracy on Test Set: 32.32%
+Epoch 4, Accuracy on Test Set: 34.65%
+Epoch 5, Accuracy on Test Set: 33.25%
+Epoch 6, Accuracy on Test Set: 31.67%
+Epoch 7, Accuracy on Test Set: 36.31%
+Epoch 8, Accuracy on Test Set: 33.81%
+Epoch 9, Accuracy on Test Set: 34.32%
+Epoch 10, Accuracy on Test Set: 32.18%
+Epoch 11, Accuracy on Test Set: 33.93%
+Epoch 12, Accuracy on Test Set: 36.50%
+Epoch 13, Accuracy on Test Set: 32.74%
+Epoch 14, Accuracy on Test Set: 36.79%
+Epoch 15, Accuracy on Test Set: 31.50%
+Epoch 16, Accuracy on Test Set: 35.96%
+Epoch 17, Accuracy on Test Set: 30.67%
+Epoch 18, Accuracy on Test Set: 34.32%
+Epoch 19, Accuracy on Test Set: 34.30%
+Epoch 20, Accuracy on Test Set: 30.22%
+Finished Training
+Final Accuracy on the Test Set: 30.22%
+Accuracy of airplane : 23 %
+Accuracy of automobile : 45 %
+Accuracy of  bird : 18 %
+Accuracy of   cat :  0 %
+Accuracy of  deer : 10 %
+Accuracy of   dog : 60 %
+Accuracy of  frog : 28 %
+Accuracy of horse : 42 %
+Accuracy of  ship : 23 %
+Accuracy of truck : 48 %
+Loaded model from MLP3Layer with accuracy 36.79 at epoch 14
